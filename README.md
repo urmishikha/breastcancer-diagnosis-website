@@ -2,6 +2,18 @@
 
 This is a full-stack Python app that helps diagnose breast cancer using machine learning. It uses Flask for the web framework, scikit-learn for machine learning, and a simple HTML form for user input.
 
+## Features
+
+User-friendly web interface for entering diagnostic parameters.
+
+Backend powered by Flask for handling requests and predictions.
+
+Machine learning model trained on a breast cancer dataset.
+
+Real-time prediction of whether a tumor is malignant or benign.
+
+Responsive design for desktop and mobile devices.
+
 ## Project Structure
 
 - `app/`: Contains the Flask app and related files.
