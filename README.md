@@ -15,5 +15,25 @@ This is a full-stack Python app that helps diagnose breast cancer using machine 
 - `requirements.txt`: List of dependencies for the project.
 
 ## How to Run
+Install the dependencies:
 
-1. Install the dependencies:
+pip install -r requirements.txt
+
+Run the Flask app:
+
+python app/routes.py
+
+Open the app in your browser:
+
+Navigate to http://127.0.0.1:5000/ in your web browser to use the app.
+
+
+## Future Improvements
+
+Add user authentication for enhanced security.
+
+Implement more advanced machine learning models to improve prediction accuracy.
+
+Allow users to upload datasets for custom predictions.
+
+Integrate data visualization for better insights into predictions.
